@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=code_editor
+Comment=no comment
+Exec=python3 code1.py
+Icon=/home/kali/python/tk-applicetion/TextEditor/src/com/SiliconBrains/logo.png
+Path=/home/kali/python/tk-applicetion/TextEditor/src/com/SiliconBrains
+Terminal=false
+StartupNotify=false
