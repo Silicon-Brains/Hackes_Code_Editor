@@ -19,10 +19,11 @@ fontColor = js["fontColor"]
 path = js["saveData"]
 bg = js["backGround"]
 font = js["font"]
+fs = js["FontSize"]
 cli = js["terminal"]
 
 # input the text in textbox
-EnterText = Text(root, width=500, height=500, bg=bg, fg=fontColor, font=font, inactiveselectbackground='green', insertbackground='green', selectbackground='yellow')
+EnterText = Text(root, width=500, height=500, bg=bg, fg=fontColor, font=(font, fs), inactiveselectbackground='green', insertbackground='green', selectbackground='yellow')
 EnterText.pack(fill=X)
 
 #create file and save data in file 
