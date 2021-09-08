@@ -9,7 +9,7 @@
     "saveData":"/home/kali/Desktop/",
     "fontColor":"lime",
     "font":"hack",
-    "FontSize":13",
+    "FontSize":13,
     "backGround":"black",
     "terminal":"qterminal"
 }
